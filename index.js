@@ -59,7 +59,7 @@ function displayMovies(movies) {
 
   // Clear previous results and add new ones
   main.innerHTML = `
-    <h1>HitBoyFlix</h1>
+    <h1>NavineFlix</h1>
     <p>Free movies, anytime you want</p>
     <input id="search" placeholder="Search for a movie...">
     <button id="discover">Discover</button>
